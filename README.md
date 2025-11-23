@@ -11,3 +11,18 @@ O projeto tem como propósito:
 - Oferecer uma ferramenta de consulta simples, visual e responsiva.
 - Permitir a pesquisa por modelo, variante, tags e ano de criação.
 - Facilitar a navegação para quem estuda aviação, engenharia aeronáutica, ou apenas aprecia a dinastia Boeing.
+
+# Tecnologias Utilizadas
+
+- HTML5 (estrutura)
+- CSS3 com foco em responsividade e UI limpa
+- JavaScript Vanilla (controle de busca, filtro e renderização dinâmica)
+- JSON como fonte de dados
+- Nenhum framework necessário — aplicação leve e rápida
+
+# Como Utilizar
+
+1. Utilize a barra de pesquisa para localizar modelos específicos.
+2. Use filtros para limitar resultados por status (legado / em produção).
+3. Ajuste a ordenação conforme sua necessidade.
+3. Clique em Saiba mais para acessar fontes externas confiáveis.
