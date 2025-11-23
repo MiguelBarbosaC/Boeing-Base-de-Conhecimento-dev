@@ -1,0 +1,343 @@
+[
+  {
+    "nome": "Boeing 707-120",
+    "data_criacao": 1957,
+    "descricao": "Versão inicial do Boeing 707, importante por popularizar os jatos comerciais de longo curso e inaugurar a era do transporte a jato.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_707",
+    "tags": ["707","jato","legado"],
+    "status": "legacy",
+    "legado": true
+  },
+  {
+    "nome": "Boeing 707-320",
+    "data_criacao": 1958,
+    "descricao": "Variante estendida do 707 com maior capacidade e alcance, amplamente usada por companhias internacionais e militares.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_707",
+    "tags": ["707","long-range"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 720",
+    "data_criacao": 1959,
+    "descricao": "Derivado do 707, otimizado para rotas de média distância; versão mais leve e de menor alcance que o 707.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_720",
+    "tags": ["720","derivado"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 717-200",
+    "data_criacao": 1998,
+    "descricao": "Aeronave regional narrow-body (originalmente MD-95), operada em rotas de curta/média distância com eficiência operacional.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_717",
+    "tags": ["717","regional"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 727-100",
+    "data_criacao": 1963,
+    "descricao": "Trijet narrow-body desenhado para operações em pistas curtas; tornou-se popular em rotas domésticas e regionais nas décadas de 1960-80.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_727",
+    "tags": ["727","trijet"],
+    "status": "legacy",
+    "legado": true
+  },
+  {
+    "nome": "Boeing 727-200",
+    "data_criacao": 1967,
+    "descricao": "Versão alongada do 727 com maior capacidade; continua como um modelo representativo da era pré-737-dominante.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_727",
+    "tags": ["727","trijet"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 737-100",
+    "data_criacao": 1967,
+    "descricao": "Primeira variante do 737, projetada para rotas curtas; marcou o início de uma família que se tornaria a mais produzida da aviação comercial.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737",
+    "tags": ["737","classic"],
+    "status": "legacy",
+    "legado": true
+  },
+  {
+    "nome": "Boeing 737-200",
+    "data_criacao": 1968,
+    "descricao": "Segunda variante do 737 com motores mais potentes; popular em rotas domésticas e regionais durante décadas.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737",
+    "tags": ["737","classic"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 737-300",
+    "data_criacao": 1984,
+    "descricao": "Início da família 'Classic' com design e motores modernizados; foco em eficiência para operadores regionais e nacionais.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737",
+    "tags": ["737","classic"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 737-400",
+    "data_criacao": 1988,
+    "descricao": "Versão de fuselagem estendida da série Classic, oferecendo maior capacidade de passageiros.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737",
+    "tags": ["737","classic"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 737-500",
+    "data_criacao": 1990,
+    "descricao": "Variante menor da família Classic com características de eficiência para rotas de menor demanda.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737",
+    "tags": ["737","classic"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 737-600",
+    "data_criacao": 1998,
+    "descricao": "Parte da geração 'Next Generation' (NG), projetada para substituir as séries 300/400/500 com aviônica e motores atualizados.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737_Next_Generation",
+    "tags": ["737","NG"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 737-700",
+    "data_criacao": 1997,
+    "descricao": "Uma das variantes mais populares da família NG, equilíbrio entre capacidade e alcance para rotas domésticas e internacionais curtas.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737_Next_Generation",
+    "tags": ["737","NG"]
+  },
+  {
+    "nome": "Boeing 737-800",
+    "data_criacao": 1998,
+    "descricao": "Variante de maior sucesso comercial da família NG, amplamente usada por operadoras ao redor do mundo por sua eficiência e capacidade.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737_Next_Generation",
+    "tags": ["737","NG"]
+  },
+  {
+    "nome": "Boeing 737-900 / 737-900ER",
+    "data_criacao": 2000,
+    "descricao": "Fuselagem alongada da família NG; a versão ER adiciona maior alcance e opções de carga para operadores.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737_Next_Generation",
+    "tags": ["737","NG"]
+  },
+  {
+    "nome": "Boeing 737 MAX 7",
+    "data_criacao": 2016,
+    "descricao": "Membro da família 737 MAX, projetado para eficiência de combustível com motores e design aerodinâmico modernizados.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737_MAX",
+    "tags": ["737","MAX"],
+    "status": "in-production"
+  },
+  {
+    "nome": "Boeing 737 MAX 8",
+    "data_criacao": 2016,
+    "descricao": "Versão ampla do 737 MAX, focada em rotas de curta e média distância; substituto moderno para muitas séries 737 NG.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737_MAX",
+    "tags": ["737","MAX"],
+    "status": "in-production"
+  },
+  {
+    "nome": "Boeing 737 MAX 9",
+    "data_criacao": 2017,
+    "descricao": "Variante de fuselagem mais longa do MAX com maior capacidade de passageiros.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737_MAX",
+    "tags": ["737","MAX"],
+    "status": "in-production"
+  },
+  {
+    "nome": "Boeing 737 MAX 10",
+    "data_criacao": 2017,
+    "descricao": "Maior versão da família MAX, com fuselagem mais longa e foco em densidade de assentos para rotas trunk.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737_MAX",
+    "tags": ["737","MAX"],
+    "status": "in-production"
+  },
+  {
+    "nome": "Boeing 747-100",
+    "data_criacao": 1969,
+    "descricao": "O icônico 'Jumbo Jet' que inaugurou a aviação de grande capacidade; revolucionou voos intercontinentais em massa.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_747",
+    "tags": ["747","jumbo"],
+    "status": "legacy",
+    "legado": true
+  },
+  {
+    "nome": "Boeing 747-200",
+    "data_criacao": 1970,
+    "descricao": "Evolução do 747 com mais potência e alcance, amplamente usada por linhas aéreas internacionais na segunda metade do século XX.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_747",
+    "tags": ["747"]
+  },
+  {
+    "nome": "Boeing 747-300",
+    "data_criacao": 1980,
+    "descricao": "Versão com ponte estendida (upper deck) para maior capacidade de passageiros.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_747",
+    "tags": ["747"]
+  },
+  {
+    "nome": "Boeing 747-400",
+    "data_criacao": 1988,
+    "descricao": "Versão de grande sucesso do 747 com aviônica avançada, winglets e maior economia; muito utilizada em rotas intercontinentais.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_747",
+    "tags": ["747"]
+  },
+  {
+    "nome": "Boeing 747-8 (Intercontinental / Freighter)",
+    "data_criacao": 2010,
+    "descricao": "Última variante desenvolvida do 747, com melhorias em eficiência e capacidade de carga; ainda usada em algumas rotas e como cargueiro.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_747",
+    "tags": ["747","8"],
+    "status": "in-production"
+  },
+  {
+    "nome": "Boeing 757-200",
+    "data_criacao": 1982,
+    "descricao": "Narrow-body de médio alcance com grande capacidade para rotas transcontinentais e internacionais de médio porte; muito apreciado por operadoras.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_757",
+    "tags": ["757"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 757-300",
+    "data_criacao": 1999,
+    "descricao": "Versão alongada do 757 com maior capacidade de assentos; usado em rotas de demanda elevada.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_757",
+    "tags": ["757"]
+  },
+  {
+    "nome": "Boeing 767-200",
+    "data_criacao": 1981,
+    "descricao": "Wide-body de médio e longo alcance que ajudou a popularizar o uso de wide-bodies para rotas transcontinentais e regionais longas.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_767",
+    "tags": ["767"]
+  },
+  {
+    "nome": "Boeing 767-300 / 767-300ER",
+    "data_criacao": 1986,
+    "descricao": "Versões alongadas e ER (Extended Range) para maior capacidade e alcance, amplamente usadas em rotas internacionais.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_767",
+    "tags": ["767"]
+  },
+  {
+    "nome": "Boeing 767-400ER",
+    "data_criacao": 1999,
+    "descricao": "Versão com fuselagem maior e alcance estendido; utilizado em algumas rotas internacionais e como plataforma de carga adaptada.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_767",
+    "tags": ["767"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 777-200",
+    "data_criacao": 1994,
+    "descricao": "Família wide-body de longo alcance, projetada para operar rotas intercontinentais com alta eficiência e conforto.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_777",
+    "tags": ["777"]
+  },
+  {
+    "nome": "Boeing 777-200ER",
+    "data_criacao": 1997,
+    "descricao": "Versão com alcance estendido do 777-200, adequada para rotas ultra-longas.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_777"
+  },
+  {
+    "nome": "Boeing 777-200LR",
+    "data_criacao": 2005,
+    "descricao": "Recebeu melhorias para permitir alguns dos voos comerciais sem escalas mais longos do mundo; foco em alcance extremo.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_777"
+  },
+  {
+    "nome": "Boeing 777-300",
+    "data_criacao": 1997,
+    "descricao": "Versão alongada do 777, com maior capacidade para rotas de alta demanda.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_777"
+  },
+  {
+    "nome": "Boeing 777-300ER",
+    "data_criacao": 2004,
+    "descricao": "Variante muito popular do 777 com alcance estendido e melhorias de desempenho, amplamente usada por grandes transportadoras internacionais.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_777"
+  },
+  {
+    "nome": "Boeing 777F (Freighter)",
+    "data_criacao": 2009,
+    "descricao": "Versão cargueira do 777 com grande capacidade de carga útil e eficiência para rotas longas de transporte de mercadorias.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_777_Freighter",
+    "tags": ["777","freighter"]
+  },
+  {
+    "nome": "Boeing 777X-8",
+    "data_criacao": 2020,
+    "descricao": "Família 777X contempla os modelos -8 e -9 com asas dobráveis e motores mais eficientes; projetada para substituir variantes maiores do 777.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_777X",
+    "tags": ["777X"],
+    "status": "in-production"
+  },
+  {
+    "nome": "Boeing 777X-9",
+    "data_criacao": 2020,
+    "descricao": "Versão maior do 777X com grande capacidade de passageiros e alcance competitivo para rotas de alta demanda.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_777X",
+    "tags": ["777X"],
+    "status": "in-production"
+  },
+  {
+    "nome": "Boeing 787-8 Dreamliner",
+    "data_criacao": 2009,
+    "descricao": "A família 787 introduziu ampla utilização de materiais compósitos e sistemas eficientes; foco em redução de consumo de combustível e conforto.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner",
+    "tags": ["787","dreamliner"],
+    "status": "in-production"
+  },
+  {
+    "nome": "Boeing 787-9 Dreamliner",
+    "data_criacao": 2011,
+    "descricao": "Variante alongada do 787-8 com maior alcance e capacidade, muito utilizada por companhias em rotas internacionais.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner",
+    "tags": ["787","dreamliner"],
+    "status": "in-production"
+  },
+  {
+    "nome": "Boeing 787-10 Dreamliner",
+    "data_criacao": 2013,
+    "descricao": "Maior variante da família 787, otimizando capacidade para rotas de alta densidade com eficiência.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner",
+    "tags": ["787","dreamliner"],
+    "status": "in-production"
+  },
+  {
+    "nome": "Boeing 737-200 ADV / Special Variants",
+    "data_criacao": 1970,
+    "descricao": "Variações e versões especiais/regionais do 737-200, incluindo versões cargueiras e executivas.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737",
+    "tags": ["737","variants"],
+    "status": "legacy"
+  },
+  {
+    "nome": "Boeing 757 Freighter Conversions",
+    "data_criacao": 2000,
+    "descricao": "Várias conversões cargueiras de 757 para atender ao mercado de cargas com alcance e capacidade de deck principal.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_757",
+    "tags": ["757","freighter"]
+  },
+  {
+    "nome": "Boeing 747 Dreamlifter (Large Cargo Version)",
+    "data_criacao": 2007,
+    "descricao": "Versão altamente modificada do 747 usada para transporte de componentes industriais (por exemplo, partes de fuselagem).",
+    "link": "https://en.wikipedia.org/wiki/Boeing_747_Dreamlifter",
+    "tags": ["747","special"]
+  },
+  {
+    "nome": "Boeing 737 Classic & NG Special Variants (ex.: BBJ, P-8 derivs)",
+    "data_criacao": 1990,
+    "descricao": "Familia 737 possui diversas variantes executivas (BBJ) e derivadas para uso militar/patrol (ex.: P-8 Poseidon baseado em 737NG).",
+    "link": "https://en.wikipedia.org/wiki/Boeing_BBJ",
+    "tags": ["737","bbj","military"]
+  },
+  {
+    "nome": "Boeing 767 Pioneering Freighter Variants",
+    "data_criacao": 1984,
+    "descricao": "A família 767 foi adaptada para versões cargueiras e tanques aéreos em várias configurações, mostrando a versatilidade do projeto.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_767",
+    "tags": ["767","freighter"]
+  }
+]

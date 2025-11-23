@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Boeing — Base de Conhecimento de Aeronaves Comerciais</title>
+  <meta name="description" content="Lista completa dos modelos e variantes de aeronaves comerciais da Boeing. Busca, fichas técnicas e links oficiais." />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header" role="banner">
+    <div class="container header-inner">
+      <h1 class="site-title">Boeing — Base de Conhecimento</h1>
+
+      <form id="search-form" class="search-form" role="search" aria-label="Pesquisar aeronave">
+        <label for="search-input" class="visually-hidden">Pesquisar aeronave</label>
+        <input id="search-input" type="search" placeholder="Pesquisar modelo, variante ou ano (ex.: 737, 747-400, 2010)" aria-label="Pesquisar modelos Boeing" />
+        <button id="search-button" type="submit" aria-label="Buscar">Buscar</button>
+        <button id="clear-button" type="button" aria-label="Limpar pesquisa">Limpar</button>
+      </form>
+    </div>
+
+    <div class="container presentation">
+      <h2>Sobre a Boeing</h2>
+      <p>
+        A Boeing é uma das maiores fabricantes de aeronaves do mundo, responsável por inovações que transformaram a aviação comercial desde meados do século XX.
+        Seus modelos desde o histórico 707 até as famílias modernas 737, 747, 777 e 787 definiram padrões de alcance, capacidade e eficiência.
+        Esta página reúne modelos e variantes comerciais da Boeing com ano aproximado de introdução e breve descrição técnica.
+      </p>
+    </div>
+  </header>
+
+  <main id="main" class="container" role="main">
+    <section id="controls" class="controls">
+      <label for="filter-select">Filtrar por:</label>
+      <select id="filter-select" aria-label="Filtrar por">
+        <option value="all">Todos</option>
+        <option value="legacy">Legado / Fora de produção</option>
+        <option value="in-production">Em produção (quando aplicável)</option>
+      </select>
+
+      <label for="sort-select">Ordenar por:</label>
+      <select id="sort-select" aria-label="Ordenar por">
+        <option value="name">Nome (A–Z)</option>
+        <option value="year-desc">Ano (mais recente)</option>
+        <option value="year-asc">Ano (mais antigo)</option>
+      </select>
+    </section>
+
+    <section id="card-container" class="card-container" aria-live="polite">
+      
+    </section>
+
+    <div id="no-results" class="no-results" hidden>
+      <p>Nenhum modelo encontrado. Tente outro termo de busca.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="container footer-inner">
+      <p>Dados compilados para fins educacionais — lista de modelos da dinastia Boeing.</p>
+      <ul class="footer-links">
+        <li><a href="https://www.boeing.com" target="_blank" rel="noopener noreferrer">Boeing (site oficial)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Boeing" target="_blank" rel="noopener noreferrer">Boeing — Wikipedia</a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
