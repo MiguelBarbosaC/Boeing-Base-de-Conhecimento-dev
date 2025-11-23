@@ -26,3 +26,11 @@ O projeto tem como propósito:
 2. Use filtros para limitar resultados por status (legado / em produção).
 3. Ajuste a ordenação conforme sua necessidade.
 3. Clique em Saiba mais para acessar fontes externas confiáveis.
+
+# Contribuições
+
+Contribuições são bem-vindas!
+
+# Licença
+
+Este projeto é destinado a fins educacionais e pode ser usado livremente conforme os termos da licença definida neste repositório.
